@@ -1,46 +1,14 @@
 ---
-title: Hello Geocafe
+title: Hello,GeoScience Café
 categories: 其他
-tag:
+tag: 
   - GIS
-author: geocafe
+author: nbb3210
 pictue: nbb3210
 camera: nbb3210
 host: nbb3210
 photos:
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## 简介
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+GeoScience Café以“谈笑间成就梦想”为口号，采取最自由的交流方式，每期邀请1-4位报告人，针对自己正在进行的研究展开报告。每周五晚7:30，在测绘遥感信息工程国家重点实验室四楼休闲厅举行当期活动。报告内容不仅涉及一切与测绘有关的学科内容及学术方法，如测绘基础学科、地理信息系统、摄影测量与遥感、全球定位系统、激光雷达技术、信号处理，还包括地理信息科学以外的话题，如法律和艺术等。让任何感兴趣的人——不仅是地理信息相关专业的师生，还包括其他专业的师生，甚至是文科生——都可以听取报告，并当场向主讲嘉宾提问或者会后与其交流。
