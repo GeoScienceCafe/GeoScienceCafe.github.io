@@ -210,17 +210,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
-            报告
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-categories">
-          <a href="/categories/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
-            
-            分类
+            归档
           </a>
         </li>
       
@@ -231,6 +221,26 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-report">
+          <a href="/categories/报告" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-pencil"></i> <br />
+            
+            报告
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-post">
+          <a href="/categories/海报" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-file-text"></i> <br />
+            
+            海报
           </a>
         </li>
       
@@ -300,7 +310,7 @@
     
       <div class="tag-cloud">
         <div class="tag-cloud-title">
-            目前共计 3 个标签
+            目前共计 2 个标签
         </div>
         <div class="tag-cloud-tags">
           <a href="/tags/无人机/" style="font-size: 12px; color: #ccc">无人机</a> <a href="/tags/洪涝事件/" style="font-size: 12px; color: #ccc">洪涝事件</a>
@@ -342,7 +352,7 @@
       <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="/images/avatar.gif"
+               src="/image/logo.png"
                alt="GeoScience Café" />
           <p class="site-author-name" itemprop="name">GeoScience Café</p>
            
@@ -376,7 +386,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -445,6 +455,14 @@
   <span class="author" itemprop="copyrightHolder">GeoScience Café</span>
 </div>
 
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+<div class="powered-by">
+<i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
+  本站访客数:<span id="busuanzi_value_site_uv"></span>
+</span>
+</div>
 
 <div class="powered-by">
   由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
@@ -587,7 +605,7 @@
     var isfetched = false;
     var isXml = true;
     // Search DB path;
-    var search_path = "";
+    var search_path = "search.xml";
     if (search_path.length === 0) {
       search_path = "search.xml";
     } else if (/json$/i.test(search_path)) {
