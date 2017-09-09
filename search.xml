@@ -2,11 +2,14 @@
 <search>
   <entry>
     <title><![CDATA[Hello,GeoScience Café]]></title>
-    <url>%2F2017%2F08%2F27%2Fhello-world%2F</url>
+    <url>%2F2017%2F09%2F09%2Fhello-world%2F</url>
     <content type="text"><![CDATA[简介GeoScience Café以“谈笑间成就梦想”为口号，采取最自由的交流方式，每期邀请1-4位报告人，针对自己正在进行的研究展开报告。每周五晚7:30，在测绘遥感信息工程国家重点实验室四楼休闲厅举行当期活动。报告内容不仅涉及一切与测绘有关的学科内容及学术方法，如测绘基础学科、地理信息系统、摄影测量与遥感、全球定位系统、激光雷达技术、信号处理，还包括地理信息科学以外的话题，如法律和艺术等。让任何感兴趣的人——不仅是地理信息相关专业的师生，还包括其他专业的师生，甚至是文科生——都可以听取报告，并当场向主讲嘉宾提问或者会后与其交流。]]></content>
       <categories>
-        <category>其他</category>
+        <category>海报</category>
       </categories>
+      <tags>
+        <tag>GIS</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[杜文英：洪涝事件信息建模与主动探测方法研究]]></title>
@@ -29,11 +32,6 @@
       <tags>
         <tag>无人机</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[archives]]></title>
-    <url>%2Farchives%2Findex.html</url>
-    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[分类]]></title>
